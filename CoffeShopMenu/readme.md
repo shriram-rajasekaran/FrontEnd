@@ -1,4 +1,4 @@
-# build Docker image
+# Build Docker image
 docker build -t coffeshopmenu .
 
 # Run the docker image and exposing it to the port 8080
